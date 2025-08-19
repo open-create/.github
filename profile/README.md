@@ -39,3 +39,22 @@
 [**🔗 백엔드(메인 서버) 저장소 바로가기 Click !**](https://github.com/open-create/publiT-server) 👈
 
 [**🔗 서버 API 문서 바로가기 Click !**](https://hazel-anorak-25a.notion.site/publiT-API-2465f59b177780f28c09da72701bc874?pvs=74) 👈
+
+
+<div id="2"></div>
+
+## 🔨 사용 기술
+### **Frontend**
+
+
+| <img height="50" alt="Kotlin" src="https://github.com/user-attachments/assets/1df5a07b-d88d-44a8-abc8-0f99e97bb732"> | <img height="50" alt="image" src="https://github.com/user-attachments/assets/de3dd007-19c0-460a-afec-f0e6deb10f69" /> | <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/5c99611f-84b9-464f-965e-c56c24e0ff73"> |
+| :------: | :---: | :---: |
+| NextJS | Jotai | Tanstack-query |
+
+---
+er-attachments/assets/20533fab-fd33-4d9e-abb6-2202ed7e4114" alt="Elastic Beanstalk" width="50px" height="50px" /> | <img src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" width="50px" height="50px" /> | <img width="50" alt="GithubAction" src="https://github.com/user-attachments/assets/b8f897b0-5888-4d42-815e-847962f34a70" /> |
+| :----------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: |
+|                                             AWS Elastic Beanstalk                                              |                                                      Nginx                                                       |                                                        GitHub Actions                                                         |
+
+
+<div id="3"></div>
