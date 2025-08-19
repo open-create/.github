@@ -46,15 +46,28 @@
 ## 🔨 사용 기술
 ### **Frontend**
 
-
-| <img height="50" alt="image" src="https://github.com/user-attachments/assets/bfb55eb7-16ec-4de8-8de2-fe955c01c002" />| <img height="50" alt="image" src="https://github.com/user-attachments/assets/de3dd007-19c0-460a-afec-f0e6deb10f69" /> | <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/5c99611f-84b9-464f-965e-c56c24e0ff73"> |
-| :------: | :---: | :---: |
-| NextJS | Jotai | Tanstack-query |
+| <img height="50" alt="image" src="https://github.com/user-attachments/assets/6128e398-bca3-4240-9789-ccd4ca94c64b" /> | <img height="50" alt="image" src="https://github.com/user-attachments/assets/bfb55eb7-16ec-4de8-8de2-fe955c01c002" />| <img height="50" alt="image" src="https://github.com/user-attachments/assets/de3dd007-19c0-460a-afec-f0e6deb10f69" /> | <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/5c99611f-84b9-464f-965e-c56c24e0ff73"> |
+| :------: | :---: | :---: | :---: |
+|  Typescript | NextJS | Jotai | Tanstack-query |
+- 스타일링: Chakra UI / Emotion / Lucide Icon
+- 에디터: Tiptap
 
 ---
-er-attachments/assets/20533fab-fd33-4d9e-abb6-2202ed7e4114" alt="Elastic Beanstalk" width="50px" height="50px" /> | <img src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" width="50px" height="50px" /> | <img width="50" alt="GithubAction" src="https://github.com/user-attachments/assets/b8f897b0-5888-4d42-815e-847962f34a70" /> |
-| :----------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: |
-|                                             AWS Elastic Beanstalk                                              |                                                      Nginx                                                       |                                                        GitHub Actions                                                         |
+### **Backend**
+| <img height="50" alt="image" src="https://github.com/user-attachments/assets/6128e398-bca3-4240-9789-ccd4ca94c64b" /> | <img height="50" alt="image" src="https://github.com/user-attachments/assets/4f4b6dd3-fea6-4b5f-b514-ce13b0c6b5aa" />| <img height="50" alt="image" src="https://github.com/user-attachments/assets/17bca473-4b53-435f-b465-6f14819dc71a" /> | <img height="50" alt="image" src="https://github.com/user-attachments/assets/f664cead-5058-431c-88c6-6c97631cfb22" /> |
+| :------: | :---: | :---: | :---: |
+|  Typescript | NestJS | Mysql | TypeORM |
+- 스타일링: Chakra UI / Emotion / Lucide Icon
+- 에디터: Tiptap
+
+
+
+
+
+
+
+
+
 
 
 <div id="3"></div>
