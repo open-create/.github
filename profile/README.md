@@ -47,7 +47,7 @@
 ### **Frontend**
 
 
-| <img height="50" alt="image" src="https://github.com/user-attachments/assets/d9ed0157-db5f-4fb8-93b8-4ad3344b8e4e" />| <img height="50" alt="image" src="https://github.com/user-attachments/assets/de3dd007-19c0-460a-afec-f0e6deb10f69" /> | <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/5c99611f-84b9-464f-965e-c56c24e0ff73"> |
+| <img height="50" alt="image" src="https://github.com/user-attachments/assets/bfb55eb7-16ec-4de8-8de2-fe955c01c002" />| <img height="50" alt="image" src="https://github.com/user-attachments/assets/de3dd007-19c0-460a-afec-f0e6deb10f69" /> | <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/5c99611f-84b9-464f-965e-c56c24e0ff73"> |
 | :------: | :---: | :---: |
 | NextJS | Jotai | Tanstack-query |
 
