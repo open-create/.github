@@ -38,6 +38,8 @@
 
 [**🔗 백엔드(메인 서버) 저장소 바로가기 Click !**](https://github.com/open-create/publiT-server) 👈
 
+[**🔗 AI 모델 서버 저장소 바로가기 Click !**](https://github.com/open-create/publiT-model) 👈
+
 [**🔗 서버 API 문서 바로가기 Click !**](https://hazel-anorak-25a.notion.site/publiT-API-2465f59b177780f28c09da72701bc874?pvs=74) 👈
 
 <br>
