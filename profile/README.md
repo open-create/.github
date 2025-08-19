@@ -103,9 +103,39 @@
 
 
 
+<div id="5"></div>
 
+## 👨‍💻 개발 팀 소개
 
+| <img height="150" alt="image" src="https://github.com/user-attachments/assets/8495b1a3-4e6c-4dc1-b69d-675e12644638" /> |<img height="150" alt="image" src="https://github.com/user-attachments/assets/2748a702-b5dd-4612-8046-afbbda3f432f" /> |
+|:----:|:----:|
+| [조규연](https://github.com/rbdus0715) | [김해원](https://github.com/haewonwon) |
+<br>
 
+<div id="6"></div>
 
+## 📅 개발 기간 및 일정
+| 일정 | 내용 |
+|---|---|
+| 2025.06 ~ 2025.07	| 기획 |
+| 2025.07 ~ 2025.08 |	기획 마무리 및 디자인 & 개발 |
+| 2025.08.20 | v1.0.0 개발 완료 |
+<br>
 
-<div id="3"></div>
+<div id="6"></div>
+
+## 🚀 실행 방법
+### Frontend
+```bash
+npm install
+npm run dev
+```
+### Backend
+```bash
+docker-compose up --build
+```
+### AI server
+```bash
+uv sync
+uvicorn app.main:app --reload
+```
